@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>俞驰</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://axh2018.cn/"/>
+  <updated>2020-03-16T12:11:37.674Z</updated>
+  <id>https://axh2018.cn/</id>
+  
+  <author>
+    <name>布莱恩特科比酱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初识JDBC</title>
+    <link href="https://axh2018.cn/posts/6604.html"/>
+    <id>https://axh2018.cn/posts/6604.html</id>
+    <published>2020-03-14T07:14:43.000Z</published>
+    <updated>2020-03-16T12:11:37.674Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;JDBC（Java DataBase Connectivity,java数据库连接）是一种用于执行SQL语句的Java
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://axh2018.cn/categories/Java/"/>
+    
+    
+      <category term="JDBC" scheme="https://axh2018.cn/tags/JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录LeetCode204</title>
+    <link href="https://axh2018.cn/posts/b54c.html"/>
+    <id>https://axh2018.cn/posts/b54c.html</id>
+    <published>2020-02-09T10:32:08.000Z</published>
+    <updated>2020-03-16T12:44:20.075Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨天闲来无事刷了道&lt;a href=&quot;https://leetcode-cn.com/problems/count-primes/LeetCode204&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://axh2018.cn/categories/LeetCode/"/>
+    
+    
+      <category term="刷题记录" scheme="https://axh2018.cn/tags/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo+Github部署博客</title>
+    <link href="https://axh2018.cn/posts/a654.html"/>
+    <id>https://axh2018.cn/posts/a654.html</id>
+    <published>2020-02-08T05:28:30.000Z</published>
+    <updated>2020-03-17T04:32:33.417Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hexo搭建个人博客&quot;&gt;&lt;a href=&quot;#Hexo搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;Hexo搭建个人博客&quot;&gt;&lt;/a&gt;Hexo搭建个人博客&lt;/h1&gt;&lt;h2 id=&quot;简单开始&quot;&gt;&lt;a href=&quot;#简单开始&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://axh2018.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo" scheme="https://axh2018.cn/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker运行酷Q</title>
+    <link href="https://axh2018.cn/posts/a01a.html"/>
+    <id>https://axh2018.cn/posts/a01a.html</id>
+    <published>2020-01-29T10:19:46.000Z</published>
+    <updated>2020-03-05T11:41:54.809Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;CentOS运行酷Q需要&lt;a href=&quot; https://www.docker.com/ &quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;docker&lt;/a&gt;的加持，什么是docker?&lt;/p&gt;
+&lt;p&gt; Docker
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Docker" scheme="https://axh2018.cn/categories/Docker/"/>
+    
+    
+      <category term="Docker" scheme="https://axh2018.cn/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ArchLinux安装</title>
+    <link href="https://axh2018.cn/posts/d698.html"/>
+    <id>https://axh2018.cn/posts/d698.html</id>
+    <published>2020-01-08T15:02:29.000Z</published>
+    <updated>2020-03-05T11:41:22.515Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;系统安装&quot;&gt;&lt;a href=&quot;#系统安装&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Arch" scheme="https://axh2018.cn/categories/Arch/"/>
+    
+    
+      <category term="Arch" scheme="https://axh2018.cn/tags/Arch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown语法摘要</title>
+    <link href="https://axh2018.cn/posts/9c48.html"/>
+    <id>https://axh2018.cn/posts/9c48.html</id>
+    <published>2019-12-07T14:15:57.000Z</published>
+    <updated>2020-03-17T05:59:44.048Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 align=&quot;center&quot;&gt;Markdown入门指南&lt;/h2&gt;
+博客搭建教程可以参考&lt;a href=&quot;https://yafine-blog.cn/posts/4ab2.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="MarkDown" scheme="https://axh2018.cn/categories/MarkDown/"/>
+    
+    
+      <category term="博客" scheme="https://axh2018.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
